@@ -9,7 +9,7 @@ O problema a ser abordado nas atividades avaliativas de PCO102 é obter o sentim
 O conteúdo da base de dados é dividido em 5 arquivos, sendo eles:
 
 ### title.akas.tsv.gz - Possúi as seguintes informações para os títulos:
-titleId (string) - um tconst, um identificador alfanumérico exclusivo do título.
+titleId (string) - um tconst, um identificador alfanumérico exclusivo do título. \n
 ordenação (inteiro) – um número para identificar exclusivamente as linhas para um determinado titleId.
 title (string) – o título localizado.
 region (string) - a região para esta versão do título.
