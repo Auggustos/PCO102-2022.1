@@ -2,7 +2,7 @@
 
 ## Problema
 
-O problema a ser abordado nas atividades avaliativas de PCO102 é obter o sentimento geral do publico em relação a filmes brasileiros por gênero(Comédia, aventura, suspense etc.). Esta base pode ser encontrada no Keagle através do link: https://www.kaggle.com/datasets/ashirwadsangwan/imdb-dataset ou no drive através do link: https://drive.google.com/drive/folders/1t7XGFJLjikyPk7augymxFO2lF4anZLaM?usp=sharing.
+O problema a ser abordado nas atividades avaliativas de PCO102 é obter o sentimento geral do publico em relação a filmes brasileiros por gênero(Comédia, aventura, suspense etc.). Esta base pode ser encontrada no Keagle através do link: https://www.kaggle.com/datasets/ashirwadsangwan/imdb-dataset ou no drive através do link: https://drive.google.com/drive/folders/1cV0L-DGcP42SDMSDBL3GLHqKZcQlznc-?usp=sharing
 
 ## Base de dados
 
