@@ -31,7 +31,7 @@ Este artigo apresenta o trabalho usando substituição léxica focada em parte d
 
 ### Solução utilizada
 
-O trabalho é baseado em avaliações "self-scraped" do site do IMDB e é anotado as avaliações em uma das três classes: positivas, negativas e neutras. Nosso conjunto de dados é chamado JUMRv1—Jadavpur University Movie Recommendation versão 1 do conjunto de dados. Para a avaliação do JUMRv1, é adotado uma abordagem exaustiva testando várias combinações de incorporação de palavras, métodos de seleção de recursos e classificadores. Também é analisado as tendências de desempenho, se houver, eles tentam explicá-las. O trabalho estabelece uma referência para sistemas de recomendação de filmes baseados no conjunto de dados recém-desenvolvido usando uma classificação de sentimento de três classes.
+O trabalho é baseado em avaliações "self-scraped" do site do IMDB e é anotado as avaliações em uma das três classes: positivas, negativas e neutras. O conjunto de dados é chamado JUMRv1—Jadavpur University Movie Recommendation versão 1 do conjunto de dados. Para a avaliação do JUMRv1, é adotado uma abordagem exaustiva testando várias combinações de incorporação de palavras, métodos de seleção de recursos e classificadores. Também é analisado as tendências de desempenho, se houver, eles tentam explicá-las. O trabalho estabelece uma referência para sistemas de recomendação de filmes baseados no conjunto de dados recém-desenvolvido usando uma classificação de sentimento de três classes.
 
 ### Semelhanças e Diferenças
 
