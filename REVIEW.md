@@ -23,12 +23,22 @@ CNN e LSTM trabalham juntos para considerar a dependência de longo prazo para m
 
 ### Solução utilizada
 
+Este artigo apresenta o trabalho usando substituição léxica focada em parte de fala (POS) para aumento de dados (PLSDA) para melhorar o desempenho de algoritmos de aprendizado de máquina na análise de sentimentos. É explorado as informações do PDV para identificar palavras a serem substituídas e investigamos diferentes estratégias de aumento para encontrar substituições semanticamente relacionadas ao gerar novas instâncias
+
 ### Semelhanças e Diferenças
 
 ## JUMRv1: A Sentiment Analysis Dataset for Movie Recommendation
 
 ### Solução utilizada
 
+O trabalho é baseado em avaliações "self-scraped" do site do IMDB e é anotado as avaliações em uma das três classes: positivas, negativas e neutras. Nosso conjunto de dados é chamado JUMRv1—Jadavpur University Movie Recommendation versão 1 do conjunto de dados. Para a avaliação do JUMRv1, é adotado uma abordagem exaustiva testando várias combinações de incorporação de palavras, métodos de seleção de recursos e classificadores. Também é analisado as tendências de desempenho, se houver, eles tentam explicá-las. O trabalho estabelece uma referência para sistemas de recomendação de filmes baseados no conjunto de dados recém-desenvolvido usando uma classificação de sentimento de três classes.
+
 ### Semelhanças e Diferenças
 
 ## Sentiment analysis on IMDB using lexicon and neural networks
+
+### Solução utilizada
+
+Neste estudo, a tarefa de mineração de opinião a partir de resenhas de filmes foi alcançada com o uso de redes neurais treinadas no “Movie Review Database” emitido por Stanford, em conjunto com duas grandes listas de palavras positivas e negativas. A rede treinada conseguiu atingir uma precisão final de 91%.
+
+### Semelhanças e Diferenças
