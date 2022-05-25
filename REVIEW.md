@@ -1,14 +1,14 @@
 # Artigos que abordam soluções semelhantes:
 
-2022 - IMDB Movie Reviews Sentiment Classification Using Deep Learning
+2022 - [IMDB Movie Reviews Sentiment Classification Using Deep Learning](#1)
 
-2021 - Lexical data augmentation for sentiment analysis
+2021 - [Lexical data augmentation for sentiment analysis](#2)
 
-2021 - JUMRv1: A Sentiment Analysis Dataset for Movie Recommendation
+2021 - [JUMRv1: A Sentiment Analysis Dataset for Movie Recommendation](#3)
 
-2020 - Sentiment analysis on IMDB using lexicon and neural networks
+2020 - [Sentiment analysis on IMDB using lexicon and neural networks](#4)
 
-## IMDB Movie Reviews Sentiment Classification Using Deep Learning
+## <a href="#1" IMDB Movie Reviews Sentiment Classification Using Deep Learning>
 
 ### Solução utilizada
 
@@ -19,7 +19,7 @@ CNN e LSTM trabalham juntos para considerar a dependência de longo prazo para m
 
 ### Semelhanças e Diferenças
 
-## Lexical data augmentation for sentiment analysis
+## <a href="#2" Lexical data augmentation for sentiment analysis>
 
 ### Solução utilizada
 
@@ -27,7 +27,7 @@ Este artigo apresenta o trabalho usando substituição léxica focada em parte d
 
 ### Semelhanças e Diferenças
 
-## JUMRv1: A Sentiment Analysis Dataset for Movie Recommendation
+## <a href="#3" JUMRv1: A Sentiment Analysis Dataset for Movie Recommendation>
 
 ### Solução utilizada
 
@@ -35,7 +35,7 @@ O trabalho é baseado em avaliações "self-scraped" do site do IMDB e é anotad
 
 ### Semelhanças e Diferenças
 
-## Sentiment analysis on IMDB using lexicon and neural networks
+## <a href="#4" Sentiment analysis on IMDB using lexicon and neural networks>
 
 ### Solução utilizada
 
