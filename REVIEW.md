@@ -25,6 +25,7 @@ CNN e LSTM trabalham juntos para considerar a dependência de longo prazo para m
 ### Diferenças
 
 * uso de técnicas de Deep Learning
+* analíse de comentarios sobre filmes
 
 ## <a id="2"> Lexical data augmentation for sentiment analysis</a>
 
@@ -41,6 +42,7 @@ Este artigo apresenta o trabalho usando substituição léxica focada em parte d
 
 * Utiliza POS para aumento de dados 
 * Conjunto de dados diferentes alem do IMDb
+* analíse de comentarios sobre filmes
 
 ## <a id="3"> JUMRv1: A Sentiment Analysis Dataset for Movie Recommendation</a>
 
@@ -57,6 +59,7 @@ O trabalho é baseado em avaliações "self-scraped" do site do IMDB e é anotad
 ### Diferenças
 
 * Conjunto de dados diferente
+* analíse de comentarios sobre filmes
 
 ## <a id="4"> Sentiment analysis on IMDB using lexicon and neural networks</a>
 
@@ -71,3 +74,4 @@ Neste estudo, a tarefa de mineração de opinião a partir de resenhas de filmes
 ### Diferenças
 
 * uso de técnicas de Deep Learning
+* analíse de comentarios sobre filmes
