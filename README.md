@@ -16,7 +16,7 @@ Esta coluna armazena o gênero principal da musica, e ele será crucial para o t
 
 Esta coluna armazena a letra completa da musica, e será a partir da letra que será analisado o sentimento. <br/>
 
-### Trac_name
+### Track_name
 
 Esta coluna armazena o nome da musica.
 
